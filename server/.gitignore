@@ -1,0 +1,4 @@
+# when we push we do not want to share node_modulus and env it is secret
+
+/node_modulus
+.env
